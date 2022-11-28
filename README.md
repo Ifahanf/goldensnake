@@ -9,8 +9,8 @@ MUHAMMAD HIRO SAKA NEGARA (MATRIC) <br />
 <ol type="1">
   <li><a href = "https://github.com/Ifahanf/goldensnake/blob/master/README.md/##10-Problem-Statement">Problem Statement</a></li>
   <li><a href = "https://github.com/Ifahanf/goldensnake/blob/master/README.md/##20-System-Architecture">System Architecture</a></li>
-  <li><a href = "google.com">Cloud Platform</a></li>
-  <li><a href = "google.com">Dashboard</a></li>
+  <li><a href = "https://www.google.com">Cloud Platform</a></li>
+  <li><a href = "https://www.google.com">Dashboard</a></li>
 </ol>
 
 ## 1.0 Problem Statement
