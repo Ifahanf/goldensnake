@@ -7,9 +7,8 @@ MUHAMMAD HIRO SAKA NEGARA (MATRIC) <br />
 
 # Stage 2
 <ol type="1">
-  <li><a href = "[google.com](https://github.com/Ifahanf/goldensnake/blob/master/README.md/##10-Problem-Statement)">Problem Statement</a></li>
-  <li><a href = "google.com">System A[google.com
-](https://github.com/Ifahanf/goldensnake/blob/master/README.md)rchitecture</a></li>
+  <li><a href = "https://github.com/Ifahanf/goldensnake/blob/master/README.md/##10-Problem-Statement">Problem Statement</a></li>
+  <li><a href = "https://github.com/Ifahanf/goldensnake/blob/master/README.md/##20-System-Architecture">System Architecture</a></li>
   <li><a href = "google.com">Cloud Platform</a></li>
   <li><a href = "google.com">Dashboard</a></li>
 </ol>
