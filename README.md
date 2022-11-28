@@ -1,6 +1,6 @@
 # GOLDEN SNAKE
 FITRA HANIFAH (MATRIC) <br />
-AUDREY SHINE ELYSIA (MATRIC) <br />
+AUDREY SHINE ELYSIA (A19EE0454) <br />
 MUHAMMAD RAFIZARD ACHWAN (A18KE0322) <br />
 MUHAMMAD HIRO SAKA NEGARA (MATRIC) <br />
 
@@ -20,7 +20,7 @@ Then, this matter became one of a focus for occupational safety and health admin
 To solve the problem, the air flow should be increased in order to reduce the temperature and humidity. 
 Afterwards, to conserve energy, the control of the air flow should be adjusted based on the current temperature.
 
-Sistem Architecture
+System Architecture
 
 ![alt text](https://github.com/Ifahanf/goldensnake/blob/master/Swimlane%20Diagram.jpg?raw=true)
 
