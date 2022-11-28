@@ -6,9 +6,12 @@ MUHAMMAD HIRO SAKA NEGARA (MATRIC) <br />
 
 
 # Stage 2
-
-
-
+<ol type="1">
+  <li><a href = "google.com">Problem Statement</a></li>
+  <li><a href = "google.com">System Architecture</a></li>
+  <li><a href = "google.com">Cloud Platform</a></li>
+  <li><a href = "google.com">Dashboard</a></li>
+</ol>
 
 ## 1.0 Problem Statement
 
@@ -26,7 +29,7 @@ Afterwards, to conserve energy, the control of the air flow should be adjusted b
 ![alt text](https://github.com/Ifahanf/goldensnake/blob/master/Swimlane%20Diagram.jpg?raw=true)
 
 
-##3.0 Cloud Platform
+__##3.0 Cloud Platform__
 
 youtube link demo: https://youtu.be/l2CTqgiERM4
 
