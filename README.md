@@ -7,9 +7,10 @@ MUHAMMAD HIRO SAKA NEGARA (MATRIC) <br />
 
 # Stage 2
 
-youtube link demo: https://youtu.be/l2CTqgiERM4
 
-#### Problem Statement
+
+
+## 1.0 Problem Statement
 
 There are several working environments that typically have high heat and humidity. 
 The cause of the situation is usually due to appliances used in the working process which have a heat source. 
@@ -20,12 +21,16 @@ Then, this matter became one of a focus for occupational safety and health admin
 To solve the problem, the air flow should be increased in order to reduce the temperature and humidity. 
 Afterwards, to conserve energy, the control of the air flow should be adjusted based on the current temperature.
 
-System Architecture
+## 2.0 System Architecture
 
 ![alt text](https://github.com/Ifahanf/goldensnake/blob/master/Swimlane%20Diagram.jpg?raw=true)
 
 
-Dashboard
+##3.0 Cloud Platform
+
+youtube link demo: https://youtu.be/l2CTqgiERM4
+
+## 4.0 Dashboard
 
 ![alt text](https://github.com/Ifahanf/goldensnake/blob/master/Screen%20Shot%202022-11-27%20at%2018.19.04.png?raw=true)
 
