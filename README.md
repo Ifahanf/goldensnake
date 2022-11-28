@@ -27,7 +27,10 @@ Sistem Architecture
 
 Dashboard
 
-![alt text]([https://github.com/Ifahanf/goldensnake/blob/master/Swimlane%20Diagram.jpg](https://github.com/Ifahanf/goldensnake/blob/master/Screen%20Shot%202022-11-27%20at%2018.19.04.png)?raw=true)
+![alt text](https://github.com/Ifahanf/goldensnake/blob/master/Screen%20Shot%202022-11-27%20at%2018.19.04.png?raw=true)
+
+
+
 
 Library for http by using ESP8266 Nodemcu 
 
