@@ -29,13 +29,13 @@ Afterwards, to conserve energy, the control of the air flow should be adjusted b
 ![alt text](https://github.com/Ifahanf/goldensnake/blob/master/Swimlane%20Diagram.jpg?raw=true)
 
 
-##3.0 Sensor
+__##3.0 Sensor__
 
 Proposed Device: DHT22 and ESP32 <br />
 Data Transmission: HTTP <br />
 ![alt text](https://github.com/Ifahanf/goldensnake/blob/master/DHT22%20and%20ESP32.jpg?raw=true)<br />
 
-**##4.0 Cloud Platform**
+__##4.0 Cloud Platform__
 
 Link Video: https://youtu.be/l2CTqgiERM4
 
