@@ -29,12 +29,32 @@ Afterwards, to conserve energy, the control of the air flow should be adjusted b
 
 ![alt text](https://github.com/Ifahanf/goldensnake/blob/master/Swimlane%20Diagram.jpg?raw=true)
 
-<br> Sensor: DHT 22/11 <br>
-Microcontroller: ESP8266 for HTTP client library<br>
-Data transmission protocol: HTTP<br>
-Ingest data: Flask<br>
-Storage: Google Cloud<br>
-
+<table>
+  <tr>
+    <th>Type</th>
+    <th>Name</th>
+  </tr>
+  <tr>
+    <td>Sensor</td>
+    <td>DHT 22</td>
+  </tr>
+  <tr>
+    <td>Microcontroller</td>
+    <td>ESP8266</td>
+  </tr>
+  <tr>
+    <td>Ingest Data</td>
+    <td>Flask</td>
+  </tr>
+  <tr>
+    <td>Storage</td>
+    <td>Google Cloud</td>
+  </tr>
+  <tr>
+    <td>Dashboard</td>
+    <td>Figma</td>
+  </tr>
+</table>
 
 
 ## 3.0 Sensor
