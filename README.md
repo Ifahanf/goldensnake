@@ -9,6 +9,7 @@ MUHAMMAD HIRO SAKA NEGARA (A18KE0320) <br />
 <ol type="1">
   <li><a href = "https://github.com/Ifahanf/goldensnake/blob/master/README.md/##10-Problem-Statement">Problem Statement</a></li>
   <li><a href = "https://github.com/Ifahanf/goldensnake/blob/master/README.md/##20-System-Architecture">System Architecture</a></li>
+  <li><a href = "https://www.google.com">Sensor</a></li>
   <li><a href = "https://www.google.com">Cloud Platform</a></li>
   <li><a href = "https://www.google.com">Dashboard</a></li>
 </ol>
