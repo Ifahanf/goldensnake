@@ -31,8 +31,8 @@ Afterwards, to conserve energy, the control of the air flow should be adjusted b
 
 ##2.0 Sensor
 
-Proposed Device: DHT22 and ESP32
-Data Transmission: HTTP
+Proposed Device: DHT22 and ESP32<br />
+Data Transmission: HTTP<br />
 ![alt text](https://github.com/Ifahanf/goldensnake/blob/master/DHT22%20and%20ESP32.jpg?raw=true)
 
 __##3.0 Cloud Platform__
