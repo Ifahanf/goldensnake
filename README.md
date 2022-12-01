@@ -35,11 +35,11 @@ Proposed Device: DHT22 and ESP32 <br />
 Data Transmission: HTTP <br />
 ![alt text](https://github.com/Ifahanf/goldensnake/blob/master/DHT22%20and%20ESP32.jpg?raw=true)<br />
 
-##4.0 Cloud Platform
+**##4.0 Cloud Platform**
 
 Link Video: https://youtu.be/l2CTqgiERM4
 
-## 4.0 Dashboard
+## 5.0 Dashboard
 
 ![alt text](https://github.com/Ifahanf/goldensnake/blob/master/Screen%20Shot%202022-11-27%20at%2018.19.04.png?raw=true)
 
