@@ -65,7 +65,9 @@ Data Transmission: HTTP <br />
 
 ## 4.0 Cloud Platform
 
-Link Video: https://youtu.be/l2CTqgiERM4
+Link Video Cloud Platform: https://youtu.be/l2CTqgiERM4
+
+Link Video Overall: https://www.youtube.com/watch?v=Y1KYOFHvbMQ
 
 ## 5.0 Dashboard
 
